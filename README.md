@@ -1,4 +1,4 @@
 # LinuxCommandTutorial
-cd // ディレクトリの移動. 
-pwd // printworkkingdirectory. 
+cd ディレクトリの移動. 
+pwd printworkkingdirectory. 
 
