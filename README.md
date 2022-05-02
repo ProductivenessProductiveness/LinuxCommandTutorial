@@ -1,6 +1,5 @@
 # LinuxCommandTutorial
-cd // ディレクトリの移動
-
+cd // ディレクトリの移動.  
 pwd // printworkkingdirectory
 
 ls // listitems. 
