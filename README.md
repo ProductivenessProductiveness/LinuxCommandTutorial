@@ -9,6 +9,7 @@ rm // ファイル削除.
 mkdir //フォルダ作成.  
 echo $PATH.  
 env.  
+which.  
 
 apt-get // パッケージ管理のコマンド。aptはAdvanced Package Tool.  
 yum // パッケージ管理のコマンド。yumはYellowdog Updater Modified
