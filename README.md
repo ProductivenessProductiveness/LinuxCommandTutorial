@@ -10,4 +10,7 @@ mkdir //フォルダ作成.
 echo $PATH.  
 env.  
 
+apt-get // パッケージ管理のコマンド。aptはAdvanced Package Tool.  
+yum // パッケージ管理のコマンド。yumはYellowdog Updater Modified
+
 
